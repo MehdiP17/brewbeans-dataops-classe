@@ -1,4 +1,4 @@
-# Brew Beans — DataOps (Module 7)
+# Brew Beans — DataOps (Module 07)
 
 Projet pédagogique fictif : apprendre Git, GitHub et Markdown en travaillant sur des ventes de cafés.
 
